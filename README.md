@@ -24,9 +24,9 @@ My main expertise is in .NET technologies but I am also well versed in Node.JS
 ---
 
 #### 📫 How to reach me:
-[<img align="left" alt="email" width="22px" style="padding:0px 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftoutlook.svg" />] [email]
-[<img align="left" alt="adrianvella.com" width="22px" style="padding:0px 5px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [website]
-[<img align="left" alt="linkedin" width="22px" style="padding:0px 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/linkedin.svg" />] [linkedin]
+[<img align="left" alt="email" width="22px" style="padding:0px 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftoutlook.svg" />][email]
+[<img align="left" alt="adrianvella.com" width="22px" style="padding:0px 5px;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="linkedin" width="22px" style="padding:0px 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/linkedin.svg" />][linkedin]
 
 
 [website]: http://adrianvella.com
