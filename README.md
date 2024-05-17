@@ -1,10 +1,6 @@
-### Hi there 👋 I'm Adrian Vella and I'm a techie currently working as a backend developer.
+### Hi there 👋 I'm Adrian Vella and I'm a techie currently working as a senior backend developer.
 
-My main expertise is in .NET technologies but I am also well versed in Node.JS
-<br/>
-- 🎉 My latest project is a 4 node raspberry pi cluster running Portainer.io
-- 👔 I’m currently learning Blazor.NET. WASM is awesome!
-- ⚡ Fun fact: In my free time I tend to rock out on my guitar 🎸
+Well versed in web technologies and currently delving into the telcoms world as well 😄
 
 ---
 
