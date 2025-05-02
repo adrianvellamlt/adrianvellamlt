@@ -21,7 +21,7 @@ Well versed in web technologies and currently delving into the telcoms world as 
 ---
 
 #### 📫 How to reach me:
-[<img align="left" alt="email" width="22px" style="padding:0px 5px;" src="https://skillicons.dev/icons?i=dotnet" />][email]
+[<img align="left" alt="email" width="22px" style="padding:0px 5px;" src="https://skillicons.dev/icons?i=gmail" />][email]
 [<img align="left" alt="adrianvella.com" width="22px" style="padding:0px 5px;" src="https://skillicons.dev/icons?i=htmx" />][website]
 [<img align="left" alt="linkedin" width="22px" style="padding:0px 5px;" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
