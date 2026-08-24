@@ -1,31 +1,86 @@
-### Hi there 👋 I'm Adrian Vella and I'm a techie currently working as a senior software developer.
+<div align="center">
 
-Well versed in web technologies and currently delving into the telcoms world as well ☎️
+# Adrian Vella
 
----
+### Software Engineer · .NET · Web · Infrastructure · AI
 
-#### Some technologies I use on the regular
-<img style="padding:0px 5px;" align="left" alt="dotnet" width="26px" src="https://skillicons.dev/icons?i=dotnet" />
-<img style="padding:0px 5px;" align="left" alt="azure" width="26px" src="https://skillicons.dev/icons?i=azure" />
-<img style="padding:0px 5px;" align="left" alt="git" width="26px" src="https://skillicons.dev/icons?i=git" />
-<img style="padding:0px 5px;" align="left" alt="react" width="26px" src="https://skillicons.dev/icons?i=react" />
-<img style="padding:0px 5px;" align="left" alt="ts" width="26px" src="https://skillicons.dev/icons?i=ts" />
-<img style="padding:0px 5px;" align="left" alt="vite" width="26px" src="https://skillicons.dev/icons?i=vite" />
-<img style="padding:0px 5px;" align="left" alt="py" width="26px" src="https://skillicons.dev/icons?i=py" />
-<img style="padding:0px 5px;" align="left" alt="rabbitmq" width="26px" src="https://skillicons.dev/icons?i=rabbitmq" />
-<img style="padding:0px 5px;" align="left" alt="redis" width="26px" src="https://skillicons.dev/icons?i=redis" />
-<img style="padding:0px 5px;" align="left" alt="elasticsearch" width="26px" src="https://skillicons.dev/icons?i=elasticsearch" />
+Based in Malta 🇲🇹
 
-<br/>
+[![Website](https://img.shields.io/badge/adrianvella.com-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adrianvella.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.adrianvella.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@adrianvella.com)
+
+</div>
 
 ---
 
-#### 📫 How to reach me:
-[<img align="left" alt="email" width="22px" style="padding:0px 5px;" src="https://skillicons.dev/icons?i=gmail" />][email]
-[<img align="left" alt="adrianvella.com" width="22px" style="padding:0px 5px;" src="https://skillicons.dev/icons?i=htmx" />][website]
-[<img align="left" alt="linkedin" width="22px" style="padding:0px 5px;" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
+## `whoami`
 
+I'm a **Software Engineer** interested in the point where software, infrastructure and automation meet.
 
-[website]: https://adrianvella.com
-[linkedin]: https://linkedin.com/in/adrianvellamlt
-[email]: mailto:adrian.vella@outlook.com?subject=Hey%21%20Let%27s%20chat
+Most of my professional work revolves around **.NET and web technologies**, while outside work I'm usually experimenting with self-hosting, infrastructure, AI, networking, smart-home automation and whatever else I can convince my homelab to run.
+
+```text
+adrian@homelab:~$ cat interests.txt
+
+→ Software Engineering
+→ Distributed & Backend Systems
+→ Web Development
+→ VoIP & Telecommunications
+→ Infrastructure & Self-Hosting
+→ Home Automation
+→ Artificial Intelligence
+````
+
+## Tech
+
+<div align="center">
+
+### Development
+
+[![Development](https://skillicons.dev/icons?i=dotnet,cs,ts,js,react,vite,python,html,css\&perline=9)](https://skillicons.dev)
+
+### Infrastructure & Data
+
+[![Infrastructure](https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,azure,redis,rabbitmq,elasticsearch,postgres\&perline=9)](https://skillicons.dev)
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,bash,powershell\&perline=9)](https://skillicons.dev)
+
+</div>
+
+## Github
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianvellamlt&theme=transparent"
+  alt="Adrian Vella GitHub Profile"
+/>
+
+<br />
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianvellamlt&theme=transparent"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrianvellamlt&theme=transparent"
+  alt="Top Languages"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Want to know more?
+
+**[adrianvella.com](https://adrianvella.com)**
+
+<sub>There is probably a server somewhere in my house doing something unnecessarily complicated.</sub>
+
+</div>
