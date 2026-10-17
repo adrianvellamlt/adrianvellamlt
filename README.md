@@ -8,7 +8,7 @@ Based in Malta 🇲🇹
 
 [![Website](https://img.shields.io/badge/adrianvella.com-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adrianvella.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.adrianvella.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@adrianvella.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@adrianvella.com)
 
 </div>
 
